@@ -30,7 +30,7 @@
     </developers>
 
     <issueManagement>
-        <system>GitHub</system>
+        <system>JIRA</system>
         <url>https://cybereagle.atlassian.net/browse/BAP</url>
     </issueManagement>
 
