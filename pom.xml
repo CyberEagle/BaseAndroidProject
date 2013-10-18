@@ -95,33 +95,26 @@
             <dependency>
                 <groupId>br.com.cybereagle</groupId>
                 <artifactId>commonlibrary</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>1.0.0</version>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>br.com.cybereagle</groupId>
                 <artifactId>androidwidgets</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-                <scope>compile</scope>
-                <type>apklib</type>
-            </dependency>
-            <dependency>
-                <groupId>br.com.cybereagle</groupId>
-                <artifactId>androidbase</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>1.0.0</version>
                 <scope>compile</scope>
                 <type>apklib</type>
             </dependency>
             <dependency>
                 <groupId>br.com.cybereagle</groupId>
                 <artifactId>androidlibrary</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>1.0.0</version>
             </dependency>
 
             <dependency>
                 <groupId>br.com.cybereagle</groupId>
                 <artifactId>androidtestlibrary</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>1.0.0</version>
                 <scope>test</scope>
                 <exclusions>
                     <exclusion>
